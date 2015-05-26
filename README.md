@@ -3,12 +3,12 @@ simple serwer that allows to shutdown or reboot Raspberry Pi via http
 
 run with
 ```
-python server.js &
+python server.py &
 ```
 
 you can define own port with third argument
 ```
-python server.js PORT &
+python server.py PORT &
 ```
 
 default port is 7000
